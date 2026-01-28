@@ -28,7 +28,7 @@ My skills:
 
 ### 📚 Currently Learning
 - Web Application Penetration Testing
-- Security Automation with Python, SIEM & Log Analysis
+- Security Automation, SIEM & Log Analysis
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faviconico1910&layout=compact&theme=tokyonight)
