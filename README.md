@@ -30,8 +30,6 @@ My skills:
 - Web Application Penetration Testing
 - Security Automation, SIEM & Log Analysis
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faviconico1910&layout=compact&theme=tokyonight)
 
 ### 📫 How to reach me: 
 <a href="https://www.facebook.com/auphu.879236/?locale=vi_VN" >
